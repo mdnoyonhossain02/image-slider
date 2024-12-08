@@ -1,0 +1,18 @@
+body{
+    background: rgb(250, 191, 191) !important;
+}
+
+.img{
+    margin: 100px auto !important;
+    text-align: center;
+}
+
+button{
+    color: rgb(0, 0, 0);
+    background: rgb(252, 252, 252);
+    padding: 12px 20px;
+    border-radius: 50% !important;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 25px 5px !important;
+}
